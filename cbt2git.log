@@ -1,8 +1,8 @@
-2025-04-08 18:41:35.244555 - Received CBT.V508.FILE1025.PDS from FILE1025.XMI 
-2025-04-08 18:41:35.246422 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE1025.PDS, moved to PDS/$$$#DATE
-2025-04-08 18:41:35.247155 - Found $DOC.txt (text/plain) in CBT.V508.FILE1025.PDS, moved to PDS/$DOC
-2025-04-08 18:41:35.247824 - Found @FIL1025.txt (text/plain) in CBT.V508.FILE1025.PDS, moved to PDS/@FIL1025
-2025-04-08 18:41:35.248554 - Found CSIDUMP.txt (text/plain) in CBT.V508.FILE1025.PDS, moved to PDS/CSIDUMP
-2025-04-08 18:41:35.249272 - Found DSLIST.txt (text/plain) in CBT.V508.FILE1025.PDS, moved to PDS/DSLIST
-2025-04-08 18:41:35.249880 - Found MINIFMT.txt (text/plain) in CBT.V508.FILE1025.PDS, moved to PDS/MINIFMT
-2025-04-08 18:41:35.250526 - Found OBJECT.bin (application/octet-stream) in CBT.V508.FILE1025.PDS, moved to PDS/OBJECT
+2025-04-08 23:11:54.953245 - Received CBT.V508.FILE1025.PDS from FILE1025.XMI 
+2025-04-08 23:11:54.954842 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE1025.PDS, moved to PDS/$$$#DATE
+2025-04-08 23:11:54.955491 - Found $DOC.txt (text/plain) in CBT.V508.FILE1025.PDS, moved to PDS/$DOC
+2025-04-08 23:11:54.956130 - Found @FIL1025.txt (text/plain) in CBT.V508.FILE1025.PDS, moved to PDS/@FIL1025
+2025-04-08 23:11:54.956743 - Found CSIDUMP.txt (text/plain) in CBT.V508.FILE1025.PDS, moved to PDS/CSIDUMP
+2025-04-08 23:11:54.957435 - Found DSLIST.txt (text/plain) in CBT.V508.FILE1025.PDS, moved to PDS/DSLIST
+2025-04-08 23:11:54.958019 - Found MINIFMT.txt (text/plain) in CBT.V508.FILE1025.PDS, moved to PDS/MINIFMT
+2025-04-08 23:11:54.958609 - Found OBJECT.bin (application/octet-stream) in CBT.V508.FILE1025.PDS, moved to PDS/OBJECT
